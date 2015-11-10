@@ -1,5 +1,4 @@
-# board_struct_and_external_file
-Tugas Besar Algoritma dan Struktur Data : Lets Get Wealthy
+# project_mobile_game_1
 
 Intinya :
 
